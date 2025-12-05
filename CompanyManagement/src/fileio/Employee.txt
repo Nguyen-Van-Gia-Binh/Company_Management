@@ -1,0 +1,7 @@
+D_D103_Le Van Anh_20000000.00_Pegasus_12_Java-C#
+D_D101_Mai Van Binh_15000000.00_Pegasus_2_Java-Go
+T_T101_Pham Van Hung_16000000.00_MT_0.30
+L_D104_Trinh Van Quyet_25000000.00_Orion_8_0.20_Java-SQL-Cloud
+T_T102_Tran Thi Thu_16000000.00_AM_0.30
+D_D102_Nguyen Thi An_18000000.00_Orion_5_Python-JS
+T_T103_Vu Van Tuan_20000000.00_AM_0.15
